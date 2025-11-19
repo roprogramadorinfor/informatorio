@@ -40,7 +40,7 @@ brindarles las habilidades necesarias para desenvolverse en un mundo cada vez m√
 - [Facebook](https://www.facebook.com/informatorio.chaco)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w5NXgPSs)
 
-  - [Comision 8](https://discord.gg/w5NXgPSs)
+  - [grupo 8](https://discord.gg/w5NXgPSs)
 
 ## Acerca de Repositorio
 
