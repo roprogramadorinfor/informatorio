@@ -1,3 +1,6 @@
+
+
+
 [Retroceder](../README.md)
 
 # Proyecto Tkinter
@@ -148,3 +151,17 @@ Esta colección de aplicaciones sirve como:
 - Integración con APIs externas para sincronización
 - Sistema de recordatorios y notificaciones
 - Importación/exportación de listas de tareas
+
+
+
+
+
+
+## Integrantes del grupo 
+
+Ortellado Romina
+Montiel	Gustavo adolfo
+Navarro	Fabio
+Romaniuk	Lucas Genaro
+Colman	Hernan
+Bizjan	Kevin
